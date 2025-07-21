@@ -67,3 +67,6 @@ php artisan serve
 	•	Middleware isAdmin untuk membatasi akses karyawan dan gaji
 	•	Validasi data input
 	•	Password terenkripsi menggunakan bcrypt
+
+contoh:
+https://www.youtube.com/watch?v=pFc0SaNEV5U
