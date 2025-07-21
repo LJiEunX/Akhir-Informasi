@@ -33,7 +33,7 @@ Dengan skenario ini, diharapkan sistem mampu:
 
 Role	Email	Password
 Admin	admin@example.com	password
-User	user@example.com	password
+User	http://127.0.0.1:8000/register
 
 Kamu bisa ubah atau tambah user baru melalui database.
 
