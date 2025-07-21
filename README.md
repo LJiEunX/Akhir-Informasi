@@ -31,7 +31,7 @@ Dengan skenario ini, diharapkan sistem mampu:
 
 🧪 Akun Uji Coba
 
-Role	Email	Password <br/>
+Role	        Email	        Password <br/>
 Admin	admin@example.com	password<br/>
 User	http://127.0.0.1:8000/register
 
